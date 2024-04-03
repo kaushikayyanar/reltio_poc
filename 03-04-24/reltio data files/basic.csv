@@ -1,0 +1,30 @@
+Name,Sector,CompanyType,CUSIP,Industry,FoundedYear,DUNSNumber,Emaildomain,Status,Ownershipstatus,IsSubsidiary,IsPublicPrivate,IsManufacturing,IsMinorityOwned,OwnsOrRents
+ABC Inc.,Technology,Corporation,1234567890,Software,2000,123456789,abc.com,Active,Public,False,True,True,False,Owns
+XYZ Ltd.,Manufacturing,LLC,9876543210,Electronics,1995,987654321,xyz.com,Active,Private,True,True,True,True,Rents
+ABCD Inc.,Technology,Corporation,2234567890,Software,2000,223456789,abc.com,Active,Public,False,True,True,False,Owns
+XYZ Ltd.,Manufacturing,LLC,9876543211,Electronics,1995,987654322,xyz.com,Active,Private,True,True,True,True,Rents
+DEF Corp.,Retail,Corporation,3234567890,Apparel,1998,323456789,defcorp.com,Active,Public,False,True,True,False,Owns
+GHI Group,Services,LLC,4234567890,Consulting,2005,423456789,ghigroup.com,Active,Private,False,True,True,True,Rents
+JKL Enterprises,Manufacturing,Partnership,5234567890,Machinery,1990,523456789,jklent.com,Inactive,Public,True,True,True,False,Rents
+MNO Inc.,Technology,Corporation,6234567890,Hardware,2008,623456789,mnoinc.com,Active,Public,False,True,True,True,Owns
+PQR Ltd.,Manufacturing,LLC,7234567890,Textiles,1997,723456789,pqrltd.com,Active,Private,False,True,True,False,Owns
+STU Corp.,Finance,Corporation,8234567890,Banking,1985,823456789,stucorp.com,Inactive,Public,True,True,True,False,Rents
+VWX Group,Services,Partnership,9234567890,Advertising,2002,923456789,vwxgroup.com,Active,Private,False,True,True,True,Owns
+ABC Corp.,Technology,Corporation,1023456789,Software,2012,1023456789,abccorp.com,Inactive,Public,True,True,True,False,Rents
+XYZ Enterprises,Manufacturing,LLC,1123456789,Chemicals,2003,1123456789,xyzent.com,Inactive,Private,True,True,True,True,Rents
+DEF Ltd.,Manufacturing,LLC,1223456789,Pharmaceuticals,1994,1223456789,defltd.com,Inactive,Private,True,True,True,True,Rents
+GHI Inc.,Services,Corporation,1323456789,Education,2009,1323456789,ghiinc.com,Inactive,Public,True,True,True,False,Rents
+JKL Corp.,Technology,Corporation,1423456789,Telecommunications,2001,1423456789,jklcorp.com,Inactive,Public,True,True,True,False,Rents
+MNO Ltd.,Manufacturing,LLC,1523456789,Automotive,1998,1523456789,mnoprod.com,Inactive,Private,True,True,True,False,Rents
+PQR Corp.,Finance,Corporation,1623456789,Insurance,2007,1623456789,pqrcorp.com,Inactive,Public,True,True,True,False,Rents
+STU Enterprises,Services,Partnership,1723456789,Hospitality,2004,1723456789,stuent.com,Inactive,Private,True,True,True,True,Rents
+VWX Ltd.,Manufacturing,LLC,1823456789,Food & Beverage,1996,1823456789,vwxltd.com,Inactive,Private,True,True,True,False,Rents
+ABC Group,Manufacturing,Partnership,1923456789,Construction,2015,1923456789,abcgroup.com,Inactive,Private,True,True,True,False,Rents
+XYZ Corp.,Finance,Corporation,2023456789,Real Estate,2006,2023456789,xyzcorp.com,Inactive,Public,True,True,True,False,Rents
+DEF Enterprises,Retail,Partnership,2123456789,Consumer Goods,2018,2123456789,defent.com,Inactive,Private,True,True,True,True,Rents
+GHI Ltd.,Manufacturing,LLC,2223456789,Steel,2011,2223456789,ghiltd.com,Inactive,Private,True,True,True,False,Rents
+JKL Group,Services,Partnership,2323456789,Transportation,2019,2323456789,jklgrp.com,Inactive,Public,True,True,True,False,Rents
+MNO Corp.,Technology,Corporation,2423456789,Energy,2016,2423456789,mnocorp.com,Inactive,Public,True,True,True,False,Rents
+PQR Enterprises,Retail,Partnership,2523456789,Home & Garden,2013,2523456789,pqrent.com,Inactive,Private,True,True,True,False,Rents
+STU Ltd.,Manufacturing,LLC,2623456789,Plastics,2000,2623456789,stulimited.com,Inactive,Private,True,True,True,False,Rents
+VWX Corp.,Finance,Corporation,2723456789,Investment,2008,2723456789,vwxcorp.com,Inactive,Public,True,True,True,False,Rents

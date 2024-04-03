@@ -1,0 +1,167 @@
+
+    {
+        "attributes": {
+            "Name": [
+                {
+                    "value": null
+                }
+            ],
+            "Sector": [
+                {
+                    "value": null
+                }
+            ],
+            "CompanyType": [
+                {
+                    "value": null
+                }
+            ],
+            "CUSIP": [
+                {
+                    "value": null
+                }
+            ],
+            "Industry": [
+                {
+                    "value": null
+                }
+            ],
+            "FoundedYear": [
+                {
+                    "value": null
+                }
+            ],
+            "DUNSNumber": [
+                {
+                    "value": null
+                }
+            ],
+            "Emaildomain": [
+                {
+                    "value": null
+                }
+            ],
+            "Status": [
+                {
+                    "value": null
+                }
+            ],
+            "Ownershipstatus": [
+                {
+                    "value": null
+                }
+            ],
+            "IsSubsidiary": [
+                {
+                    "value": null
+                }
+            ],			
+            "IsPublicPrivate": [
+                {
+                    "value": null
+                }
+            ],		
+            "IsManufacturing": [
+                {
+                    "value": null
+                }
+            ],	
+            "IsMinorityOwned": [
+                {
+                    "value": null
+                }
+            ],	
+            "OwnsOrRents": [
+                {
+                    "value": null
+                }
+            ],				
+            "Email": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": null
+                            }
+                        ],						
+                        "Type": [
+                            {
+                                "value": null
+                            }
+                        ],
+                        "Email": [
+                            {
+                                "value": null
+                            }
+                        ],
+                        "Domain": [
+                            {
+                                "value": null
+                            }
+                        ],
+                        "username": [
+                            {
+                                "value": null
+                            }
+                        ],						
+                        "ValidationStatus": [
+                            {
+                                "value": null
+                            }
+                        ],
+                        "Active": [
+                            {
+                                "value": null
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Address": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": null
+                            }
+                        ],						
+                        "AddressType": [
+                            {
+                                "value": null
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": null
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": null
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": null
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": null
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": null
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": null
+                            }
+                        ]						
+                    }
+                }
+            ]
+        }
+    }

@@ -1,0 +1,1798 @@
+[
+    {
+        "type": "configuration/entityTypes/Customer",
+        "attributes": {
+            "Sector": [
+                {
+                    "value": "Technology"
+                }
+            ],
+            "Name": [
+                {
+                    "value": "ABCD Inc."
+                }
+            ],
+            "OwnsOrRents": [
+                {
+                    "value": "Owns"
+                }
+            ],
+            "DUNSNumber": [
+                {
+                    "value": "223456789"
+                }
+            ],
+            "IsManufacturing": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Industry": [
+                {
+                    "value": "Software"
+                }
+            ],
+            "Emaildomain": [
+                {
+                    "value": "abc.com"
+                }
+            ],
+            "IsMinorityOwned": [
+                {
+                    "value": "false"
+                }
+            ],
+            "Ownershipstatus": [
+                {
+                    "value": "Public"
+                }
+            ],
+            "CompanyType": [
+                {
+                    "value": "Corporation"
+                }
+            ],
+            "IsPublicPrivate": [
+                {
+                    "value": "true"
+                }
+            ],
+            "FoundedYear": [
+                {
+                    "value": "2000"
+                }
+            ],
+            "CUSIP": [
+                {
+                    "value": "2234567890"
+                }
+            ],
+            "IsSubsidiary": [
+                {
+                    "value": "false"
+                }
+            ],
+            "Status": [
+                {
+                    "value": "Active"
+                }
+            ],
+            "Email": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "223456789"
+                            }
+                        ],
+                        "Type": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "Email": [
+                            {
+                                "value": "robertbrown@hotmail.com"
+                            }
+                        ],
+                        "Domain": [
+                            {
+                                "value": "hotmail.com"
+                            }
+                        ],
+                        "username": [
+                            {
+                                "value": "robertbrown"
+                            }
+                        ],
+                        "ValidationStatus": [
+                            {
+                                "value": "valid"
+                            }
+                        ],
+                        "Active": [
+                            {
+                                "value": "True"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Address": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "223456789"
+                            }
+                        ],
+                        "AddressType": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": "901 Maple Drive"
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": "N/A"
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": "USA"
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": "Chicago"
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": "Illinois"
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": "60601"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "type": "configuration/entityTypes/Customer",
+        "attributes": {
+            "Sector": [
+                {
+                    "value": "Technology"
+                }
+            ],
+            "Name": [
+                {
+                    "value": "MNO Corp."
+                }
+            ],
+            "OwnsOrRents": [
+                {
+                    "value": "Rents"
+                }
+            ],
+            "DUNSNumber": [
+                {
+                    "value": "2423456789"
+                }
+            ],
+            "IsManufacturing": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Industry": [
+                {
+                    "value": "Energy"
+                }
+            ],
+            "Emaildomain": [
+                {
+                    "value": "mnocorp.com"
+                }
+            ],
+            "IsMinorityOwned": [
+                {
+                    "value": "false"
+                }
+            ],
+            "Ownershipstatus": [
+                {
+                    "value": "Public"
+                }
+            ],
+            "CompanyType": [
+                {
+                    "value": "Corporation"
+                }
+            ],
+            "IsPublicPrivate": [
+                {
+                    "value": "true"
+                }
+            ],
+            "FoundedYear": [
+                {
+                    "value": "2016"
+                }
+            ],
+            "CUSIP": [
+                {
+                    "value": "2423456789"
+                }
+            ],
+            "IsSubsidiary": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Status": [
+                {
+                    "value": "Inactive"
+                }
+            ],
+            "Email": [],
+            "Address": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "2423456789"
+                            }
+                        ],
+                        "AddressType": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": "234 YZ Street"
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": "ABC Colony"
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": "India"
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": "Kolkata"
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": "West Bengal"
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": "700001"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "type": "configuration/entityTypes/Customer",
+        "attributes": {
+            "Sector": [
+                {
+                    "value": "Finance"
+                }
+            ],
+            "Name": [
+                {
+                    "value": "XYZ Corp."
+                }
+            ],
+            "OwnsOrRents": [
+                {
+                    "value": "Rents"
+                }
+            ],
+            "DUNSNumber": [
+                {
+                    "value": "2023456789"
+                }
+            ],
+            "IsManufacturing": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Industry": [
+                {
+                    "value": "Real Estate"
+                }
+            ],
+            "Emaildomain": [
+                {
+                    "value": "xyzcorp.com"
+                }
+            ],
+            "IsMinorityOwned": [
+                {
+                    "value": "false"
+                }
+            ],
+            "Ownershipstatus": [
+                {
+                    "value": "Public"
+                }
+            ],
+            "CompanyType": [
+                {
+                    "value": "Corporation"
+                }
+            ],
+            "IsPublicPrivate": [
+                {
+                    "value": "true"
+                }
+            ],
+            "FoundedYear": [
+                {
+                    "value": "2006"
+                }
+            ],
+            "CUSIP": [
+                {
+                    "value": "2023456789"
+                }
+            ],
+            "IsSubsidiary": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Status": [
+                {
+                    "value": "Inactive"
+                }
+            ],
+            "Email": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "2023456789"
+                            }
+                        ],
+                        "Type": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "Email": [
+                            {
+                                "value": "sophiamorgan@outlook.com"
+                            }
+                        ],
+                        "Domain": [
+                            {
+                                "value": "outlook.com"
+                            }
+                        ],
+                        "username": [
+                            {
+                                "value": "sophiamorgan"
+                            }
+                        ],
+                        "ValidationStatus": [
+                            {
+                                "value": "valid"
+                            }
+                        ],
+                        "Active": [
+                            {
+                                "value": "True"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "2023456789"
+                            }
+                        ],
+                        "Type": [
+                            {
+                                "value": "secondary"
+                            }
+                        ],
+                        "Email": [
+                            {
+                                "value": "sophiamorgan@gmail.com"
+                            }
+                        ],
+                        "Domain": [
+                            {
+                                "value": "gmail.com"
+                            }
+                        ],
+                        "username": [
+                            {
+                                "value": "sophiamorgan"
+                            }
+                        ],
+                        "ValidationStatus": [
+                            {
+                                "value": "valid"
+                            }
+                        ],
+                        "Active": [
+                            {
+                                "value": "True"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Address": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "2023456789"
+                            }
+                        ],
+                        "AddressType": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": "456 XYZ Boulevard"
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": "LMN Heights"
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": "India"
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": "Surat"
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": "Gujarat"
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": "395001"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "2023456789"
+                            }
+                        ],
+                        "AddressType": [
+                            {
+                                "value": "secondary"
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": "789 Elm Street"
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": "Apt 3B"
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": "USA"
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": "Los Angeles"
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": "California"
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": "90012"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "type": "configuration/entityTypes/Customer",
+        "attributes": {
+            "Sector": [
+                {
+                    "value": "Manufacturing"
+                }
+            ],
+            "Name": [
+                {
+                    "value": "PQR Ltd."
+                }
+            ],
+            "OwnsOrRents": [
+                {
+                    "value": "Owns"
+                }
+            ],
+            "DUNSNumber": [
+                {
+                    "value": "723456789"
+                }
+            ],
+            "IsManufacturing": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Industry": [
+                {
+                    "value": "Textiles"
+                }
+            ],
+            "Emaildomain": [
+                {
+                    "value": "pqrltd.com"
+                }
+            ],
+            "IsMinorityOwned": [
+                {
+                    "value": "false"
+                }
+            ],
+            "Ownershipstatus": [
+                {
+                    "value": "Private"
+                }
+            ],
+            "CompanyType": [
+                {
+                    "value": "LLC"
+                }
+            ],
+            "IsPublicPrivate": [
+                {
+                    "value": "true"
+                }
+            ],
+            "FoundedYear": [
+                {
+                    "value": "1997"
+                }
+            ],
+            "CUSIP": [
+                {
+                    "value": "7234567890"
+                }
+            ],
+            "IsSubsidiary": [
+                {
+                    "value": "false"
+                }
+            ],
+            "Status": [
+                {
+                    "value": "Active"
+                }
+            ],
+            "Email": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "723456789"
+                            }
+                        ],
+                        "Type": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "Email": [
+                            {
+                                "value": "davidthomas@gmail.com"
+                            }
+                        ],
+                        "Domain": [
+                            {
+                                "value": "gmail.com"
+                            }
+                        ],
+                        "username": [
+                            {
+                                "value": "davidthomas"
+                            }
+                        ],
+                        "ValidationStatus": [
+                            {
+                                "value": "valid"
+                            }
+                        ],
+                        "Active": [
+                            {
+                                "value": "True"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Address": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "723456789"
+                            }
+                        ],
+                        "AddressType": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": "901 Willow Street"
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": "N/A"
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": "USA"
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": "Houston"
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": "Texas"
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": "77001"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "type": "configuration/entityTypes/Customer",
+        "attributes": {
+            "Sector": [
+                {
+                    "value": "Retail"
+                }
+            ],
+            "Name": [
+                {
+                    "value": "DEF Corp."
+                }
+            ],
+            "OwnsOrRents": [
+                {
+                    "value": "Owns"
+                }
+            ],
+            "DUNSNumber": [
+                {
+                    "value": "323456789"
+                }
+            ],
+            "IsManufacturing": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Industry": [
+                {
+                    "value": "Apparel"
+                }
+            ],
+            "Emaildomain": [
+                {
+                    "value": "defcorp.com"
+                }
+            ],
+            "IsMinorityOwned": [
+                {
+                    "value": "false"
+                }
+            ],
+            "Ownershipstatus": [
+                {
+                    "value": "Public"
+                }
+            ],
+            "CompanyType": [
+                {
+                    "value": "Corporation"
+                }
+            ],
+            "IsPublicPrivate": [
+                {
+                    "value": "true"
+                }
+            ],
+            "FoundedYear": [
+                {
+                    "value": "1998"
+                }
+            ],
+            "CUSIP": [
+                {
+                    "value": "3234567890"
+                }
+            ],
+            "IsSubsidiary": [
+                {
+                    "value": "false"
+                }
+            ],
+            "Status": [
+                {
+                    "value": "Active"
+                }
+            ],
+            "Email": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "323456789"
+                            }
+                        ],
+                        "Type": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "Email": [
+                            {
+                                "value": "michaelwilliams@yahoo.com"
+                            }
+                        ],
+                        "Domain": [
+                            {
+                                "value": "yahoo.com"
+                            }
+                        ],
+                        "username": [
+                            {
+                                "value": "michaelwilliams"
+                            }
+                        ],
+                        "ValidationStatus": [
+                            {
+                                "value": "valid"
+                            }
+                        ],
+                        "Active": [
+                            {
+                                "value": "True"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Address": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "323456789"
+                            }
+                        ],
+                        "AddressType": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": "234 Birch Street"
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": "N/A"
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": "USA"
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": "Miami"
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": "Florida"
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": "33101"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "type": "configuration/entityTypes/Customer",
+        "attributes": {
+            "Sector": [
+                {
+                    "value": "Retail"
+                }
+            ],
+            "Name": [
+                {
+                    "value": "DEF Enterprises"
+                }
+            ],
+            "OwnsOrRents": [
+                {
+                    "value": "Rents"
+                }
+            ],
+            "DUNSNumber": [
+                {
+                    "value": "2123456789"
+                }
+            ],
+            "IsManufacturing": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Industry": [
+                {
+                    "value": "Consumer Goods"
+                }
+            ],
+            "Emaildomain": [
+                {
+                    "value": "defent.com"
+                }
+            ],
+            "IsMinorityOwned": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Ownershipstatus": [
+                {
+                    "value": "Private"
+                }
+            ],
+            "CompanyType": [
+                {
+                    "value": "Partnership"
+                }
+            ],
+            "IsPublicPrivate": [
+                {
+                    "value": "true"
+                }
+            ],
+            "FoundedYear": [
+                {
+                    "value": "2018"
+                }
+            ],
+            "CUSIP": [
+                {
+                    "value": "2123456789"
+                }
+            ],
+            "IsSubsidiary": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Status": [
+                {
+                    "value": "Inactive"
+                }
+            ],
+            "Email": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "2123456789"
+                            }
+                        ],
+                        "Type": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "Email": [
+                            {
+                                "value": "prakash@yahoo.com"
+                            }
+                        ],
+                        "Domain": [
+                            {
+                                "value": "yahoo.com"
+                            }
+                        ],
+                        "username": [
+                            {
+                                "value": "prakash"
+                            }
+                        ],
+                        "ValidationStatus": [
+                            {
+                                "value": "valid"
+                            }
+                        ],
+                        "Active": [
+                            {
+                                "value": "True"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "2123456789"
+                            }
+                        ],
+                        "Type": [
+                            {
+                                "value": "secondary"
+                            }
+                        ],
+                        "Email": [
+                            {
+                                "value": "prakash@gmail.com"
+                            }
+                        ],
+                        "Domain": [
+                            {
+                                "value": "gmail.com"
+                            }
+                        ],
+                        "username": [
+                            {
+                                "value": "prakash"
+                            }
+                        ],
+                        "ValidationStatus": [
+                            {
+                                "value": "valid"
+                            }
+                        ],
+                        "Active": [
+                            {
+                                "value": "True"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Address": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "2123456789"
+                            }
+                        ],
+                        "AddressType": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": "12 ABC Street"
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": "XYZ Colony"
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": "India"
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": "Mumbai"
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": "Maharashtra"
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": "400001"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "2123456789"
+                            }
+                        ],
+                        "AddressType": [
+                            {
+                                "value": "secondary"
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": "56 DEF Road"
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": "LMN Apartment"
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": "India"
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": "Delhi"
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": "Delhi"
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": "110001"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "type": "configuration/entityTypes/Customer",
+        "attributes": {
+            "Sector": [
+                {
+                    "value": "Services"
+                }
+            ],
+            "Name": [
+                {
+                    "value": "VWX Group"
+                }
+            ],
+            "OwnsOrRents": [
+                {
+                    "value": "Owns"
+                }
+            ],
+            "DUNSNumber": [
+                {
+                    "value": "923456789"
+                }
+            ],
+            "IsManufacturing": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Industry": [
+                {
+                    "value": "Advertising"
+                }
+            ],
+            "Emaildomain": [
+                {
+                    "value": "vwxgroup.com"
+                }
+            ],
+            "IsMinorityOwned": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Ownershipstatus": [
+                {
+                    "value": "Private"
+                }
+            ],
+            "CompanyType": [
+                {
+                    "value": "Partnership"
+                }
+            ],
+            "IsPublicPrivate": [
+                {
+                    "value": "true"
+                }
+            ],
+            "FoundedYear": [
+                {
+                    "value": "2002"
+                }
+            ],
+            "CUSIP": [
+                {
+                    "value": "9234567890"
+                }
+            ],
+            "IsSubsidiary": [
+                {
+                    "value": "false"
+                }
+            ],
+            "Status": [
+                {
+                    "value": "Active"
+                }
+            ],
+            "Email": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "923456789"
+                            }
+                        ],
+                        "Type": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "Email": [
+                            {
+                                "value": "richardwhite@outlook.com"
+                            }
+                        ],
+                        "Domain": [
+                            {
+                                "value": "outlook.com"
+                            }
+                        ],
+                        "username": [
+                            {
+                                "value": "richardwhite"
+                            }
+                        ],
+                        "ValidationStatus": [
+                            {
+                                "value": "valid"
+                            }
+                        ],
+                        "Active": [
+                            {
+                                "value": "True"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Address": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "923456789"
+                            }
+                        ],
+                        "AddressType": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": "12 Spruce Lane"
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": "Apt 5D"
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": "USA"
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": "Dallas"
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": "Texas"
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": "75201"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "type": "configuration/entityTypes/Customer",
+        "attributes": {
+            "Sector": [
+                {
+                    "value": "Finance"
+                }
+            ],
+            "Name": [
+                {
+                    "value": "STU Corp."
+                }
+            ],
+            "OwnsOrRents": [
+                {
+                    "value": "Rents"
+                }
+            ],
+            "DUNSNumber": [
+                {
+                    "value": "823456789"
+                }
+            ],
+            "IsManufacturing": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Industry": [
+                {
+                    "value": "Banking"
+                }
+            ],
+            "Emaildomain": [
+                {
+                    "value": "stucorp.com"
+                }
+            ],
+            "IsMinorityOwned": [
+                {
+                    "value": "false"
+                }
+            ],
+            "Ownershipstatus": [
+                {
+                    "value": "Public"
+                }
+            ],
+            "CompanyType": [
+                {
+                    "value": "Corporation"
+                }
+            ],
+            "IsPublicPrivate": [
+                {
+                    "value": "true"
+                }
+            ],
+            "FoundedYear": [
+                {
+                    "value": "1985"
+                }
+            ],
+            "CUSIP": [
+                {
+                    "value": "8234567890"
+                }
+            ],
+            "IsSubsidiary": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Status": [
+                {
+                    "value": "Inactive"
+                }
+            ],
+            "Email": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "823456789"
+                            }
+                        ],
+                        "Type": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "Email": [
+                            {
+                                "value": "susanjackson@yahoo.com"
+                            }
+                        ],
+                        "Domain": [
+                            {
+                                "value": "yahoo.com"
+                            }
+                        ],
+                        "username": [
+                            {
+                                "value": "susanjackson"
+                            }
+                        ],
+                        "ValidationStatus": [
+                            {
+                                "value": "valid"
+                            }
+                        ],
+                        "Active": [
+                            {
+                                "value": "True"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Address": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "823456789"
+                            }
+                        ],
+                        "AddressType": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": "234 Palm Avenue"
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": "N/A"
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": "USA"
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": "Seattle"
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": "Washington"
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": "98101"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "type": "configuration/entityTypes/Customer",
+        "attributes": {
+            "Sector": [
+                {
+                    "value": "Technology"
+                }
+            ],
+            "Name": [
+                {
+                    "value": "ABC Corp."
+                }
+            ],
+            "OwnsOrRents": [
+                {
+                    "value": "Rents"
+                }
+            ],
+            "DUNSNumber": [
+                {
+                    "value": "1023456789"
+                }
+            ],
+            "IsManufacturing": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Industry": [
+                {
+                    "value": "Software"
+                }
+            ],
+            "Emaildomain": [
+                {
+                    "value": "abccorp.com"
+                }
+            ],
+            "IsMinorityOwned": [
+                {
+                    "value": "false"
+                }
+            ],
+            "Ownershipstatus": [
+                {
+                    "value": "Public"
+                }
+            ],
+            "CompanyType": [
+                {
+                    "value": "Corporation"
+                }
+            ],
+            "IsPublicPrivate": [
+                {
+                    "value": "true"
+                }
+            ],
+            "FoundedYear": [
+                {
+                    "value": "2012"
+                }
+            ],
+            "CUSIP": [
+                {
+                    "value": "1023456789"
+                }
+            ],
+            "IsSubsidiary": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Status": [
+                {
+                    "value": "Inactive"
+                }
+            ],
+            "Email": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "1023456789"
+                            }
+                        ],
+                        "Type": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "Email": [
+                            {
+                                "value": "maryharris@gmail.com"
+                            }
+                        ],
+                        "Domain": [
+                            {
+                                "value": "gmail.com"
+                            }
+                        ],
+                        "username": [
+                            {
+                                "value": "maryharris"
+                            }
+                        ],
+                        "ValidationStatus": [
+                            {
+                                "value": "valid"
+                            }
+                        ],
+                        "Active": [
+                            {
+                                "value": "True"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Address": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "1023456789"
+                            }
+                        ],
+                        "AddressType": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": "345 Pine Road"
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": "N/A"
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": "USA"
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": "Atlanta"
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": "Georgia"
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": "30301"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "type": "configuration/entityTypes/Customer",
+        "attributes": {
+            "Sector": [
+                {
+                    "value": "Services"
+                }
+            ],
+            "Name": [
+                {
+                    "value": "GHI Inc."
+                }
+            ],
+            "OwnsOrRents": [
+                {
+                    "value": "Rents"
+                }
+            ],
+            "DUNSNumber": [
+                {
+                    "value": "1323456789"
+                }
+            ],
+            "IsManufacturing": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Industry": [
+                {
+                    "value": "Education"
+                }
+            ],
+            "Emaildomain": [
+                {
+                    "value": "ghiinc.com"
+                }
+            ],
+            "IsMinorityOwned": [
+                {
+                    "value": "false"
+                }
+            ],
+            "Ownershipstatus": [
+                {
+                    "value": "Public"
+                }
+            ],
+            "CompanyType": [
+                {
+                    "value": "Corporation"
+                }
+            ],
+            "IsPublicPrivate": [
+                {
+                    "value": "true"
+                }
+            ],
+            "FoundedYear": [
+                {
+                    "value": "2009"
+                }
+            ],
+            "CUSIP": [
+                {
+                    "value": "1323456789"
+                }
+            ],
+            "IsSubsidiary": [
+                {
+                    "value": "true"
+                }
+            ],
+            "Status": [
+                {
+                    "value": "Inactive"
+                }
+            ],
+            "Email": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "1323456789"
+                            }
+                        ],
+                        "Type": [
+                            {
+                                "value": "secondary"
+                            }
+                        ],
+                        "Email": [
+                            {
+                                "value": "kumar@gmail.com"
+                            }
+                        ],
+                        "Domain": [
+                            {
+                                "value": "gmail.com"
+                            }
+                        ],
+                        "username": [
+                            {
+                                "value": "kumar"
+                            }
+                        ],
+                        "ValidationStatus": [
+                            {
+                                "value": "valid"
+                            }
+                        ],
+                        "Active": [
+                            {
+                                "value": "True"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Address": [
+                {
+                    "value": {
+                        "DUNSNumber": [
+                            {
+                                "value": "1323456789"
+                            }
+                        ],
+                        "AddressType": [
+                            {
+                                "value": "primary"
+                            }
+                        ],
+                        "AddressLine1": [
+                            {
+                                "value": "345 MNO Avenue"
+                            }
+                        ],
+                        "AddressLine2": [
+                            {
+                                "value": "PQR Enclave"
+                            }
+                        ],
+                        "Country": [
+                            {
+                                "value": "India"
+                            }
+                        ],
+                        "City": [
+                            {
+                                "value": "Hyderabad"
+                            }
+                        ],
+                        "State": [
+                            {
+                                "value": "Telangana"
+                            }
+                        ],
+                        "PostalCode": [
+                            {
+                                "value": "500001"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+]

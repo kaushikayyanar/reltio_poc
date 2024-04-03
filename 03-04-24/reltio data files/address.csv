@@ -1,0 +1,43 @@
+DUNSNumber,AddressType,AddressLine1,AddressLine2,City,State,Country,PostalCode
+123456789,primary,789 Elm Street,Apt 3B,Los Angeles,California,USA,90012
+987654321,primary,12 jk street,anna nagar,Chennai,Tamilnadu,India,09881
+987654321,secondary,456 Pinecrest Blvd,N/A,Atlanta,Georgia,USA,30301
+223456789,primary,901 Maple Drive,N/A,Chicago,Illinois,USA,60601
+987654322,primary,78 Cedar Lane,Apt 2B,Boston,Massachusetts,USA,02101
+987654322,secondary,890 Elm Street,Apt 7B,Los Angeles,California,USA,90012
+323456789,primary,234 Birch Street,N/A,Miami,Florida,USA,33101
+423456789,primary,890 Palm Road,Apt 4C,Seattle,Washington,USA,98101
+523456789,primary,123 Spruce Avenue,N/A,Dallas,Texas,USA,75201
+623456789,primary,567 Pinecrest Blvd,N/A,Atlanta,Georgia,USA,30301
+723456789,primary,901 Willow Street,N/A,Houston,Texas,USA,77001
+823456789,primary,234 Palm Avenue,N/A,Seattle,Washington,USA,98101
+923456789,primary,12 Spruce Lane,Apt 5D,Dallas,Texas,USA,75201
+1023456789,primary,345 Pine Road,N/A,Atlanta,Georgia,USA,30301
+1123456789,primary,678 Elm Drive,N/A,Los Angeles,California,USA,90012
+1123456789,secondary,123 Oak Avenue,N/A,San Francisco,California,USA,94102
+1223456789,primary,56 DEF Road,LMN Apartment,Delhi,Delhi,India,110001
+1223456789,secondary,789 GHI Lane,JKL Nagar,Bangalore,Karnataka,India,560001
+1323456789,primary,345 MNO Avenue,PQR Enclave,Hyderabad,Telangana,India,500001
+1423456789,secondary,901 STU Boulevard,VWX Heights,Chennai,Tamil Nadu,India,600001
+1423456789,secondary,234 YZ Street,ABC Colony,Kolkata,West Bengal,India,700001
+1523456789,primary,567 PQR Road,DEF Nagar,Pune,Maharashtra,India,411001
+1623456789,primary,890 LMN Lane,GHI Enclave,Ahmedabad,Gujarat,India,380001
+1723456789,primary,123 STU Avenue,VWX Heights,Jaipur,Rajasthan,India,302001
+1823456789,primary,234 Birch Street,N/A,Miami,Florida,USA,33101
+1823456789,secondary,345 Pine Road,N/A,Atlanta,Georgia,USA,30301
+1923456789,primary,890 Palm Road,Apt 4C,Seattle,Washington,USA,98101
+1923456789,secondary,890 Elm Street,Apt 7B,Los Angeles,California,USA,90012
+2023456789,primary,456 XYZ Boulevard,LMN Heights,Surat,Gujarat,India,395001
+2023456789,secondary,789 Elm Street,Apt 3B,Los Angeles,California,USA,90012
+2123456789,primary,12 ABC Street,XYZ Colony,Mumbai,Maharashtra,India,400001
+2123456789,secondary,56 DEF Road,LMN Apartment,Delhi,Delhi,India,110001
+2223456789,primary,789 GHI Lane,JKL Nagar,Bangalore,Karnataka,India,560001
+2223456789,secondary,345 MNO Avenue,PQR Enclave,Hyderabad,Telangana,India,500001
+2323456789,primary,901 STU Boulevard,VWX Heights,Chennai,Tamil Nadu,India,600001
+2423456789,primary,234 YZ Street,ABC Colony,Kolkata,West Bengal,India,700001
+2523456789,primary,567 PQR Road,DEF Nagar,Pune,Maharashtra,India,411001
+2523456789,secondary,890 LMN Lane,GHI Enclave,Ahmedabad,Gujarat,India,380001
+2623456789,primary,123 STU Avenue,VWX Heights,Jaipur,Rajasthan,India,302001
+28262345678929,primary,345 Pine Road,N/A,Atlanta,Georgia,USA,30301
+2723456789,primary,890 Palm Road,Apt 4C,Seattle,Washington,USA,98101
+2723456789,secondary,890 Elm Street,Apt 7B,Los Angeles,California,USA,90012
